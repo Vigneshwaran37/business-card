@@ -1,0 +1,21 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} 
+.mypic{
+    width:150px;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    width:400px;
+    margin: 0px auto;
+    background-color:#ddebf8;
+    border-bottom: 6px solid #dBcefe;
+    color:#2b2830;
+    text-align:center;
+}
+.bdr{
+    border:1px dotted blue;
+    
+}
